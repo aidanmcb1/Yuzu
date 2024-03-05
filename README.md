@@ -1,3 +1,6 @@
+<h1 align="center">BUILDING ON WINDOWS https://web.archive.org/web/20240302183850/https://github.com/yuzu-emu/yuzu/wiki/Building-For-Windows</h1>
+<h1 align="center">BUILDING ON LINUX https://web.archive.org/web/20240304183515/https://github.com/yuzu-emu/yuzu/wiki/Building-For-Linux</h1>
+
 <!--
 SPDX-FileCopyrightText: 2018 yuzu Emulator Project
 SPDX-License-Identifier: GPL-2.0-or-later
